@@ -1,0 +1,4 @@
+1. controller에 수정 라우터 작업 완료 
+2. service에 수정메서드 작업 완료 
+3. repository의 수정 메서도 작업 완료 
+
